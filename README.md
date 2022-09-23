@@ -16,9 +16,7 @@ Após atuar por 6 anos na área de suporte e infraestrutura de TI, iniciei um pr
 <div>
 <a href="https://wa.me/5519993510669" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%24ca62?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-dutra-9a8043b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-          
+</div>   
           
           
           
